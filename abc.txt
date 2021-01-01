@@ -1,1 +1,2 @@
 Some random text.
+Some random text added in bugfix branch.
