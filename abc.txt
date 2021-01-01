@@ -1,2 +1,3 @@
 Some random text.
 Some random text added in bugfix branch.
+Text added to file from feature branch.
