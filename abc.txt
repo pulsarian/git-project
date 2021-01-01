@@ -5,3 +5,5 @@ Text added to file from feature branch.
 
 adding new text.
 saving to stash
+
+adding line1
