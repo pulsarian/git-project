@@ -2,3 +2,6 @@ Some random text.
 The quick brown fox jumped over the lazy dog.
 Some random text added in bugfix branch.
 Text added to file from feature branch.
+
+adding new text.
+saving to stash
