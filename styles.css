@@ -1,0 +1,114 @@
+.blue {
+    background: blue;
+    height: 500px;
+    width: 700px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-inline-box;
+    display: -ms-inline-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: row;
+    -webkit-box-flex
+    -ms-flex-wrap: wrap;
+    -ms-flex
+    -ms-flex-wrap: wrap;
+    flex
+    -ms-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align:center;
+    -ms-flex-align:center;
+    align-items: flex-end;
+   
+}
+
+.red {
+    background: red;
+    height: 100px;
+    width: 100px;
+    margin: 10px;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+
+.navbar {
+    width: 700px;
+    border: 3px solid green;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    margin-top: 30px;
+    background: yellow;
+    display: -webkit-inline-box;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    -webkit-box-pack: start;
+    -ms-flex-pack: start;
+    justify-content: flex-start;
+}
+
+.nav-item {
+    color: white;
+    font-weight: bold;
+    font-family: sans-serif;
+    font-size: 2rem;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    padding: 10px;
+    text-align: center;
+}
+
+.home {
+    background: aquamarine;
+}
+
+.search {
+    background: orange;
+    -webkit-box-flex: 1;
+    -ms-flex: 1;
+    flex: 0;
+    margin-left: auto;
+}
+
+.logout {
+    background: aquamarine;
+    margin-left: auto;
+}
+
+
+.red:nth-of-type(4) {
+    -webkit-box-flex: 1;
+    -ms-flex: 1;
+/*    flex: 1;*/
+}
+/*
+.navbar > div {
+    -webkit-box-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+}
+*/
+
+/*
+
+.item-1 {
+    -ms-flex-item-align: start;
+    align-self: flex-start;
+}
+
+.item-2, .item-3 {
+    -ms-flex-item-align: auto;
+    align-self: auto;
+}
+
+.item-4 {
+    -ms-flex-item-align: end;
+    align-self: flex-end;
+}
+*/

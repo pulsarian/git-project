@@ -1,6 +1,15 @@
 Some random text.
+The quick brown fox jumped over the lazy dog.
 Some random text added in bugfix branch.
 Text added to file from feature branch.
 
+<<<<<<< HEAD
 
 added a new line to bugfix branch.
+=======
+adding new text.
+saving to stash
+
+adding line1
+adding line2
+>>>>>>> master
